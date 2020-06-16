@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/open-react-template/static/css/main.373f15ea.chunk.css",
-    "main.js": "/open-react-template/static/js/main.5fea7cf4.chunk.js",
-    "main.js.map": "/open-react-template/static/js/main.5fea7cf4.chunk.js.map",
+    "main.js": "/open-react-template/static/js/main.6f2d3808.chunk.js",
+    "main.js.map": "/open-react-template/static/js/main.6f2d3808.chunk.js.map",
     "runtime-main.js": "/open-react-template/static/js/runtime-main.080402f2.js",
     "runtime-main.js.map": "/open-react-template/static/js/runtime-main.080402f2.js.map",
-    "static/js/2.c3798ad7.chunk.js": "/open-react-template/static/js/2.c3798ad7.chunk.js",
-    "static/js/2.c3798ad7.chunk.js.map": "/open-react-template/static/js/2.c3798ad7.chunk.js.map",
+    "static/js/2.9440d3b1.chunk.js": "/open-react-template/static/js/2.9440d3b1.chunk.js",
+    "static/js/2.9440d3b1.chunk.js.map": "/open-react-template/static/js/2.9440d3b1.chunk.js.map",
     "63bb4fc3c11dcee7a916.worker.js": "/open-react-template/63bb4fc3c11dcee7a916.worker.js",
     "63bb4fc3c11dcee7a916.worker.js.LICENSE.txt": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.LICENSE.txt",
     "63bb4fc3c11dcee7a916.worker.js.map": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.map",
     "index.html": "/open-react-template/index.html",
-    "precache-manifest.e82dd08a5bfcfcd13d11e56f4027c255.js": "/open-react-template/precache-manifest.e82dd08a5bfcfcd13d11e56f4027c255.js",
+    "precache-manifest.e7e746ef7d9df8204eddfc1c188b3f17.js": "/open-react-template/precache-manifest.e7e746ef7d9df8204eddfc1c188b3f17.js",
     "service-worker.js": "/open-react-template/service-worker.js",
     "static/css/main.373f15ea.chunk.css.map": "/open-react-template/static/css/main.373f15ea.chunk.css.map",
-    "static/js/2.c3798ad7.chunk.js.LICENSE.txt": "/open-react-template/static/js/2.c3798ad7.chunk.js.LICENSE.txt",
+    "static/js/2.9440d3b1.chunk.js.LICENSE.txt": "/open-react-template/static/js/2.9440d3b1.chunk.js.LICENSE.txt",
     "static/media/banner.jpg": "/open-react-template/static/media/banner.e3bec943.jpg",
     "static/media/bird.svg": "/open-react-template/static/media/bird.8e480800.svg",
     "static/media/circuit-board.svg": "/open-react-template/static/media/circuit-board.845fafb0.svg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.080402f2.js",
-    "static/js/2.c3798ad7.chunk.js",
+    "static/js/2.9440d3b1.chunk.js",
     "static/css/main.373f15ea.chunk.css",
-    "static/js/main.5fea7cf4.chunk.js"
+    "static/js/main.6f2d3808.chunk.js"
   ]
 }
