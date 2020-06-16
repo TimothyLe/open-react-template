@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.LICENSE.txt"
   },
   {
-    "revision": "9dbb5c8293996feee39ced53688d0855",
+    "revision": "99109b8b5773b0e60a9b14106cfe257a",
     "url": "/open-react-template/index.html"
   },
   {
-    "revision": "ba691aa345b5aee6f279",
+    "revision": "22a21e6a2b398bb94937",
     "url": "/open-react-template/static/css/main.373f15ea.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/static/js/2.9440d3b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba691aa345b5aee6f279",
-    "url": "/open-react-template/static/js/main.2661a840.chunk.js"
+    "revision": "22a21e6a2b398bb94937",
+    "url": "/open-react-template/static/js/main.23492357.chunk.js"
   },
   {
     "revision": "75b56dac7982343ffe90",
@@ -88,8 +88,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/static/media/motorcycle.396a483d.svg"
   },
   {
-    "revision": "ff7f771728bd83a732e0793f9a8cfc35",
-    "url": "/open-react-template/static/media/resume.ff7f7717.pdf"
+    "revision": "799e4b67c44008f856fc156e71191bd8",
+    "url": "/open-react-template/static/media/resume.799e4b67.pdf"
   },
   {
     "revision": "5025a677d211abd7d637c5115fcab752",
