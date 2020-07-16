@@ -8,11 +8,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.LICENSE.txt"
   },
   {
-    "revision": "99109b8b5773b0e60a9b14106cfe257a",
+    "revision": "fab523d3f27d233cc0bdc936b669ae01",
     "url": "/open-react-template/index.html"
   },
   {
-    "revision": "22a21e6a2b398bb94937",
+    "revision": "058d9816de6a94a512d0",
     "url": "/open-react-template/static/css/main.373f15ea.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/static/js/2.9440d3b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "22a21e6a2b398bb94937",
-    "url": "/open-react-template/static/js/main.23492357.chunk.js"
+    "revision": "058d9816de6a94a512d0",
+    "url": "/open-react-template/static/js/main.2d305b34.chunk.js"
   },
   {
     "revision": "75b56dac7982343ffe90",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e3bec943638a891b7260b71c9215a241",
     "url": "/open-react-template/static/media/banner.e3bec943.jpg"
-  },
-  {
-    "revision": "8e480800dd47a58484edb15fc3bc2715",
-    "url": "/open-react-template/static/media/bird.8e480800.svg"
   },
   {
     "revision": "845fafb0c903f1efa09bede9d74e2213",
@@ -88,12 +84,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/open-react-template/static/media/motorcycle.396a483d.svg"
   },
   {
-    "revision": "799e4b67c44008f856fc156e71191bd8",
-    "url": "/open-react-template/static/media/resume.799e4b67.pdf"
+    "revision": "88348a28eb494d074b5363c7d0b2db97",
+    "url": "/open-react-template/static/media/resume.88348a28.pdf"
   },
   {
     "revision": "5025a677d211abd7d637c5115fcab752",
     "url": "/open-react-template/static/media/wafer.5025a677.svg"
+  },
+  {
+    "revision": "d1e93dfe6a0ac12ffde841531d26be03",
+    "url": "/open-react-template/static/media/waffle.d1e93dfe.svg"
   },
   {
     "revision": "d5d5cfe649dd497282198d5fa9d65a73",
