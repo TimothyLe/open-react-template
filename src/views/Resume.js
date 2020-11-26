@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import Button from '../components/elements/Button';
 import { Document, Page, pdfjs } from 'react-pdf/dist/entry.webpack';
 
-import resume from '../assets/pdf/resume.pdf';
+import resume from '../assets/pdf/crayondoodle3.pdf';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;
 
@@ -73,7 +73,7 @@ export default class Resume extends Component {
               </Document>
               <br></br>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-                <a href={resume} download={'resume.pdf'}>
+                <a href={resume} download={'crayondoodle3.pdf'}>
                   <Button tag="a" color="light" wideMobile>                  
                     Download Resume
                   </Button>
