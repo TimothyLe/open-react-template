@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/open-react-template/static/css/main.373f15ea.chunk.css",
-    "main.js": "/open-react-template/static/js/main.2d305b34.chunk.js",
-    "main.js.map": "/open-react-template/static/js/main.2d305b34.chunk.js.map",
+    "main.css": "/open-react-template/static/css/main.bda94274.chunk.css",
+    "main.js": "/open-react-template/static/js/main.c0f9b9f2.chunk.js",
+    "main.js.map": "/open-react-template/static/js/main.c0f9b9f2.chunk.js.map",
     "runtime-main.js": "/open-react-template/static/js/runtime-main.080402f2.js",
     "runtime-main.js.map": "/open-react-template/static/js/runtime-main.080402f2.js.map",
-    "static/js/2.9440d3b1.chunk.js": "/open-react-template/static/js/2.9440d3b1.chunk.js",
-    "static/js/2.9440d3b1.chunk.js.map": "/open-react-template/static/js/2.9440d3b1.chunk.js.map",
+    "static/js/2.2f8e961f.chunk.js": "/open-react-template/static/js/2.2f8e961f.chunk.js",
+    "static/js/2.2f8e961f.chunk.js.map": "/open-react-template/static/js/2.2f8e961f.chunk.js.map",
     "63bb4fc3c11dcee7a916.worker.js": "/open-react-template/63bb4fc3c11dcee7a916.worker.js",
     "63bb4fc3c11dcee7a916.worker.js.LICENSE.txt": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.LICENSE.txt",
     "63bb4fc3c11dcee7a916.worker.js.map": "/open-react-template/63bb4fc3c11dcee7a916.worker.js.map",
     "index.html": "/open-react-template/index.html",
-    "precache-manifest.31feaf69e7907342178530b35cb0248a.js": "/open-react-template/precache-manifest.31feaf69e7907342178530b35cb0248a.js",
+    "precache-manifest.fb40e9fa92fb92779b30399d29cb12fa.js": "/open-react-template/precache-manifest.fb40e9fa92fb92779b30399d29cb12fa.js",
     "service-worker.js": "/open-react-template/service-worker.js",
-    "static/css/main.373f15ea.chunk.css.map": "/open-react-template/static/css/main.373f15ea.chunk.css.map",
-    "static/js/2.9440d3b1.chunk.js.LICENSE.txt": "/open-react-template/static/js/2.9440d3b1.chunk.js.LICENSE.txt",
+    "static/css/main.bda94274.chunk.css.map": "/open-react-template/static/css/main.bda94274.chunk.css.map",
+    "static/js/2.2f8e961f.chunk.js.LICENSE.txt": "/open-react-template/static/js/2.2f8e961f.chunk.js.LICENSE.txt",
     "static/media/banner.jpg": "/open-react-template/static/media/banner.e3bec943.jpg",
     "static/media/circuit-board.svg": "/open-react-template/static/media/circuit-board.845fafb0.svg",
+    "static/media/crayondoodle3.pdf": "/open-react-template/static/media/crayondoodle3.81eaf46d.pdf",
     "static/media/style.scss": "/open-react-template/static/media/illustration-section-02.63d0555d.svg",
     "static/media/electric-car.svg": "/open-react-template/static/media/electric-car.593cb36a.svg",
     "static/media/falls-rescue.jpg": "/open-react-template/static/media/falls-rescue.3809a4ea.jpg",
@@ -26,15 +27,14 @@
     "static/media/lincoln-nebraska.jpg": "/open-react-template/static/media/lincoln-nebraska.eb5d1322.jpg",
     "static/media/lobo.jpg": "/open-react-template/static/media/lobo.b4724f31.jpg",
     "static/media/motorcycle.svg": "/open-react-template/static/media/motorcycle.396a483d.svg",
-    "static/media/resume.pdf": "/open-react-template/static/media/resume.88348a28.pdf",
     "static/media/wafer.svg": "/open-react-template/static/media/wafer.5025a677.svg",
     "static/media/waffle.svg": "/open-react-template/static/media/waffle.d1e93dfe.svg",
     "static/media/work.svg": "/open-react-template/static/media/work.d5d5cfe6.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.080402f2.js",
-    "static/js/2.9440d3b1.chunk.js",
-    "static/css/main.373f15ea.chunk.css",
-    "static/js/main.2d305b34.chunk.js"
+    "static/js/2.2f8e961f.chunk.js",
+    "static/css/main.bda94274.chunk.css",
+    "static/js/main.c0f9b9f2.chunk.js"
   ]
 }
