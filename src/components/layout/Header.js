@@ -124,6 +124,15 @@ const Header = ({
                       <a href="https://github.com/TimothyLe/open-react-template">View on Github</a>
                     </li>
                   </ul>
+                  <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <a href="https://paypal.me/timothyle85">Fund my dreams</a>
+                    </li>
+                  </ul>
                   {!hideSignin &&
                     <ul
                       className="list-reset header-nav-right"
